@@ -4,4 +4,9 @@ Branch2 DEV
 
 
 
+
 Develop new featrue
+
+Fix anomaly.............
+
+Done
